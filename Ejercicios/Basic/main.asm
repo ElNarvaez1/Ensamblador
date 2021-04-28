@@ -1,6 +1,6 @@
 TITLE Alexis Narvaez
 .286
- include "macros.h"
+ include "macros.lib"
 ;========================================================================
 ; DECLARACION DEL SEGMENTO DE PILA
 ;========================================================================
